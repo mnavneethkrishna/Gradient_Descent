@@ -6,8 +6,8 @@ We use Gradient Descent Algorithm to evealuate training accuracy and
 print the loss.
 
 Required stuff: 
-Python 3.5 or higher
-Google Tensorflow (non-gpu version)
+Python 3.5 or higher;
+Google Tensorflow (non-gpu version);
 Working python-os library.
 
 Improvements over other code:
